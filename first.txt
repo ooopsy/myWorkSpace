@@ -1,4 +1,5 @@
 this is my first txt file
 and i wirte this line
 
-add another line.`
+add another line.
+also a new line
