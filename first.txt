@@ -5,3 +5,4 @@ add another line.
 also a new line
 
 add new line in branch "dev"
+add new line in brach "feature1"
