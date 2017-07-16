@@ -8,3 +8,7 @@ also a new line
 add new line in 1 branch "dev"
 add new line in branch "master"
 
+
+add new line in branch "dev"  and not save
+
+fix bug
