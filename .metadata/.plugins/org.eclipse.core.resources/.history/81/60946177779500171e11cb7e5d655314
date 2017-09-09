@@ -1,0 +1,10 @@
+package com.lee.test;
+
+import org.junit.Test;
+
+public class JudgeCircle {
+	@Test
+	public void test(){
+		
+	}
+}
